@@ -1,0 +1,5 @@
+Season,AQI,PM2_5,PM10,Total_Admissions,Respiratory_Admissions,Cardiac_Admissions,Pediatric_Admissions,Geriatric_Admissions,Pollution_Exposure_Score,Respiratory_Admission_Rate
+Monsoon,117.3,56.13,112.98,41.26,14.15,10.66,8.96,13.89,33.86,33.94
+Post-Monsoon,237.23,128.88,258.55,52.55,22.45,12.05,13.27,18.08,53.66,39.65
+Summer,205.52,104.54,211.18,48.72,19.37,11.83,11.67,16.71,51.65,37.82
+Winter,244.6,132.95,266.48,53.49,23.18,12.14,13.66,18.42,56.08,40.31

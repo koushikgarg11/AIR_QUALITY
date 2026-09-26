@@ -1,0 +1,151 @@
+City,Pollutant,Admission_Type,Lag_Days,Correlation_r,P_Value,Is_Optimal_Lag
+Delhi NCR,PM2.5,Respiratory,0,0.9887,0.0,False
+Delhi NCR,PM2.5,Respiratory,1,0.9921,0.0,False
+Delhi NCR,PM2.5,Respiratory,2,0.9955,0.0,True
+Delhi NCR,PM2.5,Respiratory,3,0.9948,0.0,False
+Delhi NCR,PM2.5,Respiratory,4,0.9907,0.0,False
+Delhi NCR,PM2.5,Respiratory,5,0.9867,0.0,False
+Delhi NCR,PM2.5,Respiratory,6,0.9827,0.0,False
+Delhi NCR,PM2.5,Respiratory,7,0.9789,0.0,False
+Delhi NCR,PM2.5,Respiratory,8,0.9732,0.0,False
+Delhi NCR,PM2.5,Respiratory,9,0.9673,0.0,False
+Delhi NCR,PM2.5,Respiratory,10,0.9613,0.0,False
+Delhi NCR,PM2.5,Respiratory,11,0.955,0.0,False
+Delhi NCR,PM2.5,Respiratory,12,0.9486,0.0,False
+Delhi NCR,PM2.5,Respiratory,13,0.9419,0.0,False
+Delhi NCR,PM2.5,Respiratory,14,0.935,0.0,False
+Mumbai,PM2.5,Respiratory,0,0.8624,0.0,False
+Mumbai,PM2.5,Respiratory,1,0.8692,0.0,False
+Mumbai,PM2.5,Respiratory,2,0.8835,0.0,True
+Mumbai,PM2.5,Respiratory,3,0.877,0.0,False
+Mumbai,PM2.5,Respiratory,4,0.8599,0.0,False
+Mumbai,PM2.5,Respiratory,5,0.8483,0.0,False
+Mumbai,PM2.5,Respiratory,6,0.8431,0.0,False
+Mumbai,PM2.5,Respiratory,7,0.8418,0.0,False
+Mumbai,PM2.5,Respiratory,8,0.828,0.0,False
+Mumbai,PM2.5,Respiratory,9,0.8209,0.0,False
+Mumbai,PM2.5,Respiratory,10,0.8109,0.0,False
+Mumbai,PM2.5,Respiratory,11,0.8013,0.0,False
+Mumbai,PM2.5,Respiratory,12,0.791,0.0,False
+Mumbai,PM2.5,Respiratory,13,0.7886,0.0,False
+Mumbai,PM2.5,Respiratory,14,0.7824,0.0,False
+Kolkata,PM2.5,Respiratory,0,0.9334,0.0,False
+Kolkata,PM2.5,Respiratory,1,0.9378,0.0,False
+Kolkata,PM2.5,Respiratory,2,0.9434,0.0,True
+Kolkata,PM2.5,Respiratory,3,0.9421,0.0,False
+Kolkata,PM2.5,Respiratory,4,0.9337,0.0,False
+Kolkata,PM2.5,Respiratory,5,0.9271,0.0,False
+Kolkata,PM2.5,Respiratory,6,0.9226,0.0,False
+Kolkata,PM2.5,Respiratory,7,0.9198,0.0,False
+Kolkata,PM2.5,Respiratory,8,0.9122,0.0,False
+Kolkata,PM2.5,Respiratory,9,0.9056,0.0,False
+Kolkata,PM2.5,Respiratory,10,0.8998,0.0,False
+Kolkata,PM2.5,Respiratory,11,0.8974,0.0,False
+Kolkata,PM2.5,Respiratory,12,0.8936,0.0,False
+Kolkata,PM2.5,Respiratory,13,0.8895,0.0,False
+Kolkata,PM2.5,Respiratory,14,0.8845,0.0,False
+Bengaluru,PM2.5,Respiratory,0,0.5326,0.0,False
+Bengaluru,PM2.5,Respiratory,1,0.5366,0.0,False
+Bengaluru,PM2.5,Respiratory,2,0.574,0.0,True
+Bengaluru,PM2.5,Respiratory,3,0.5728,0.0,False
+Bengaluru,PM2.5,Respiratory,4,0.5285,0.0,False
+Bengaluru,PM2.5,Respiratory,5,0.4997,0.0,False
+Bengaluru,PM2.5,Respiratory,6,0.4993,0.0,False
+Bengaluru,PM2.5,Respiratory,7,0.4849,0.0,False
+Bengaluru,PM2.5,Respiratory,8,0.4781,0.0,False
+Bengaluru,PM2.5,Respiratory,9,0.4685,0.0,False
+Bengaluru,PM2.5,Respiratory,10,0.4565,0.0,False
+Bengaluru,PM2.5,Respiratory,11,0.4337,0.0,False
+Bengaluru,PM2.5,Respiratory,12,0.4295,0.0,False
+Bengaluru,PM2.5,Respiratory,13,0.4286,0.0,False
+Bengaluru,PM2.5,Respiratory,14,0.4304,0.0,False
+Hyderabad,PM2.5,Respiratory,0,0.5702,0.0,False
+Hyderabad,PM2.5,Respiratory,1,0.568,0.0,False
+Hyderabad,PM2.5,Respiratory,2,0.591,0.0,False
+Hyderabad,PM2.5,Respiratory,3,0.5997,0.0,True
+Hyderabad,PM2.5,Respiratory,4,0.5782,0.0,False
+Hyderabad,PM2.5,Respiratory,5,0.5488,0.0,False
+Hyderabad,PM2.5,Respiratory,6,0.5388,0.0,False
+Hyderabad,PM2.5,Respiratory,7,0.5384,0.0,False
+Hyderabad,PM2.5,Respiratory,8,0.5227,0.0,False
+Hyderabad,PM2.5,Respiratory,9,0.5074,0.0,False
+Hyderabad,PM2.5,Respiratory,10,0.4934,0.0,False
+Hyderabad,PM2.5,Respiratory,11,0.4973,0.0,False
+Hyderabad,PM2.5,Respiratory,12,0.4923,0.0,False
+Hyderabad,PM2.5,Respiratory,13,0.4879,0.0,False
+Hyderabad,PM2.5,Respiratory,14,0.486,0.0,False
+Chennai,PM2.5,Respiratory,0,0.6289,0.0,False
+Chennai,PM2.5,Respiratory,1,0.645,0.0,False
+Chennai,PM2.5,Respiratory,2,0.6631,0.0,True
+Chennai,PM2.5,Respiratory,3,0.6609,0.0,False
+Chennai,PM2.5,Respiratory,4,0.6257,0.0,False
+Chennai,PM2.5,Respiratory,5,0.6063,0.0,False
+Chennai,PM2.5,Respiratory,6,0.5929,0.0,False
+Chennai,PM2.5,Respiratory,7,0.5944,0.0,False
+Chennai,PM2.5,Respiratory,8,0.5838,0.0,False
+Chennai,PM2.5,Respiratory,9,0.5564,0.0,False
+Chennai,PM2.5,Respiratory,10,0.5467,0.0,False
+Chennai,PM2.5,Respiratory,11,0.532,0.0,False
+Chennai,PM2.5,Respiratory,12,0.5359,0.0,False
+Chennai,PM2.5,Respiratory,13,0.519,0.0,False
+Chennai,PM2.5,Respiratory,14,0.4914,0.0,False
+Ahmedabad,PM2.5,Respiratory,0,0.8077,0.0,False
+Ahmedabad,PM2.5,Respiratory,1,0.8129,0.0,False
+Ahmedabad,PM2.5,Respiratory,2,0.8305,0.0,True
+Ahmedabad,PM2.5,Respiratory,3,0.8266,0.0,False
+Ahmedabad,PM2.5,Respiratory,4,0.8041,0.0,False
+Ahmedabad,PM2.5,Respiratory,5,0.7871,0.0,False
+Ahmedabad,PM2.5,Respiratory,6,0.7805,0.0,False
+Ahmedabad,PM2.5,Respiratory,7,0.7768,0.0,False
+Ahmedabad,PM2.5,Respiratory,8,0.7652,0.0,False
+Ahmedabad,PM2.5,Respiratory,9,0.7604,0.0,False
+Ahmedabad,PM2.5,Respiratory,10,0.7528,0.0,False
+Ahmedabad,PM2.5,Respiratory,11,0.7463,0.0,False
+Ahmedabad,PM2.5,Respiratory,12,0.7386,0.0,False
+Ahmedabad,PM2.5,Respiratory,13,0.7277,0.0,False
+Ahmedabad,PM2.5,Respiratory,14,0.723,0.0,False
+Pune,PM2.5,Respiratory,0,0.5547,0.0,False
+Pune,PM2.5,Respiratory,1,0.566,0.0,False
+Pune,PM2.5,Respiratory,2,0.5827,0.0,True
+Pune,PM2.5,Respiratory,3,0.5739,0.0,False
+Pune,PM2.5,Respiratory,4,0.5554,0.0,False
+Pune,PM2.5,Respiratory,5,0.534,0.0,False
+Pune,PM2.5,Respiratory,6,0.5243,0.0,False
+Pune,PM2.5,Respiratory,7,0.5199,0.0,False
+Pune,PM2.5,Respiratory,8,0.505,0.0,False
+Pune,PM2.5,Respiratory,9,0.4921,0.0,False
+Pune,PM2.5,Respiratory,10,0.4775,0.0,False
+Pune,PM2.5,Respiratory,11,0.4839,0.0,False
+Pune,PM2.5,Respiratory,12,0.4787,0.0,False
+Pune,PM2.5,Respiratory,13,0.4647,0.0,False
+Pune,PM2.5,Respiratory,14,0.452,0.0,False
+Lucknow,PM2.5,Respiratory,0,0.9685,0.0,False
+Lucknow,PM2.5,Respiratory,1,0.9732,0.0,False
+Lucknow,PM2.5,Respiratory,2,0.9789,0.0,True
+Lucknow,PM2.5,Respiratory,3,0.9777,0.0,False
+Lucknow,PM2.5,Respiratory,4,0.9708,0.0,False
+Lucknow,PM2.5,Respiratory,5,0.9645,0.0,False
+Lucknow,PM2.5,Respiratory,6,0.9608,0.0,False
+Lucknow,PM2.5,Respiratory,7,0.9574,0.0,False
+Lucknow,PM2.5,Respiratory,8,0.9512,0.0,False
+Lucknow,PM2.5,Respiratory,9,0.9444,0.0,False
+Lucknow,PM2.5,Respiratory,10,0.9384,0.0,False
+Lucknow,PM2.5,Respiratory,11,0.9308,0.0,False
+Lucknow,PM2.5,Respiratory,12,0.9233,0.0,False
+Lucknow,PM2.5,Respiratory,13,0.9161,0.0,False
+Lucknow,PM2.5,Respiratory,14,0.9089,0.0,False
+Patna,PM2.5,Respiratory,0,0.979,0.0,False
+Patna,PM2.5,Respiratory,1,0.9829,0.0,False
+Patna,PM2.5,Respiratory,2,0.9877,0.0,True
+Patna,PM2.5,Respiratory,3,0.987,0.0,False
+Patna,PM2.5,Respiratory,4,0.9813,0.0,False
+Patna,PM2.5,Respiratory,5,0.9765,0.0,False
+Patna,PM2.5,Respiratory,6,0.9715,0.0,False
+Patna,PM2.5,Respiratory,7,0.9668,0.0,False
+Patna,PM2.5,Respiratory,8,0.9598,0.0,False
+Patna,PM2.5,Respiratory,9,0.9533,0.0,False
+Patna,PM2.5,Respiratory,10,0.9469,0.0,False
+Patna,PM2.5,Respiratory,11,0.9398,0.0,False
+Patna,PM2.5,Respiratory,12,0.9332,0.0,False
+Patna,PM2.5,Respiratory,13,0.9269,0.0,False
+Patna,PM2.5,Respiratory,14,0.9201,0.0,False
